@@ -68,7 +68,7 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="$(MauiVersion)" />
-		<PackageReference Include="Syncfusion.Maui.SmartComponents" Version="*" />
+		<PackageReference Include="Syncfusion.Maui.SmartDataGrid" Version="*" />
 	</ItemGroup>
 
 </Project>
